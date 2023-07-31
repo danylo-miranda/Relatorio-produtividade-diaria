@@ -7,7 +7,7 @@ Este relatório tem o objetivo de **demonstrar a importância da análise dos da
 
 ---
 
-## O relatório deve incluir o seguintes itens:
+## O relatório inclui o seguintes itens:
 
 * Total de horas trabalhadas
 * Média diária de horas trabalhadas
