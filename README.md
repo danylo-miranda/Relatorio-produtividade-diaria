@@ -1,13 +1,33 @@
+![Nome](https://i.imgur.com/RJOpIBm.png)
+
 # <font size = 32> <font color = orange> **Relatorio de produtividade diária**
-Gerar um relatório de progresso diário para mostrar o quão produtivo está sendo o trabalho dos funcionários .
+* Esse relatório tem como objetivo gerar indicadores relacionados a produtividade de uma equipe de desenvolvimento de software ao longo da semana.
 
 ---
 
-Este relatório tem o objetivo de **demonstrar a importância da análise dos dados** de um projeto de desenvolvimento de software ao longo de uma semana. Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obeter **insights** sobre o progresso do projeto, identificar possíveis áreas de **melhoria** e tomar **decisões** informadas para garantir o sucesso do projeto.
+## Índice 
+
+* [Índice](#índice)
+* [Bibliotecas utilizadas](#Bibliotecas-utilizadas:)
+* [Linguagens utilizadas](#Linguagens-utilizadas)
+* [Análise exploratória](#Análise-exploratória)
+
+
+## Bibliotecas utilizadas:
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
 
-## O relatório inclui o seguintes itens:
+## Linguagens utilizadas:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+## Análise exploratória:
 
 * Total de horas trabalhadas
 * Média diária de horas trabalhadas
@@ -16,3 +36,5 @@ Este relatório tem o objetivo de **demonstrar a importância da análise dos da
 * Total de tarefas concluídas
 * Média ddiária de tarefas concluídas
 * Produtividade diária (tarefas concluídas por hora)
+* Índice de eficiência na correção de Bugs
+* Índice de eficiência na conclusão de tarefas
