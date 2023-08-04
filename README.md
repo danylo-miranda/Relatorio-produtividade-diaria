@@ -1,6 +1,6 @@
 ![Nome](https://i.imgur.com/RJOpIBm.png)
 
-# <font size = 32> <font color = orange> **Relatorio de produtividade diária**
+# <font size = 32> <font color = orange> **Relatório de produtividade diária**
 * Esse relatório tem como objetivo gerar indicadores relacionados a produtividade de uma equipe de desenvolvimento de software ao longo da semana.
 
 ---
