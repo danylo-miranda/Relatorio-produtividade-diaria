@@ -8,7 +8,7 @@
 ## Índice 
 
 * [Índice](#índice)
-* [Bibliotecas utilizadas](#Bibliotecas-utilizadas:)
+* [Bibliotecas utilizadas](#Bibliotecas-utilizadas)
 * [Linguagens utilizadas](#Linguagens-utilizadas)
 * [Análise exploratória](#Análise-exploratória)
 
