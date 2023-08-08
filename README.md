@@ -11,7 +11,8 @@
 * [Bibliotecas utilizadas](#Bibliotecas-utilizadas)
 * [Linguagens utilizadas](#Linguagens-utilizadas)
 * [Análise exploratória](#Análise-exploratória)
-* [Desvendar o sucesso de uma equipe](#Desvendar-o-sucesso-da-equipe-de-desenvolvimento).
+* [Desvendar o sucesso de uma equipe](#Desvendar-o-sucesso-da-equipe-de-desenvolvimento)
+* [Contato](#Contato)
 
 
 ## Bibliotecas utilizadas:
@@ -52,3 +53,8 @@
 * 💼 Somatório de Dedicação: Um total de 43 horas de dedicação durante a semana.
 * 🐞 Bugs Desafiados: 16 Bugs foram vencidos com maestria.
 * ✅ Metas Concluídas: Celebramos a realização de 29 metas triunfantes.
+
+  ---
+
+  ## Contato
+  * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-danylo-miranda/)
